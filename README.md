@@ -2,12 +2,12 @@
 Where I keep my ahk scripts
 
 
-I learned how to write code using the notepad text editor that comes stock with windows and wrote using the AHK language. 
-I'm teaching myself git here now as I expand my knowledge of coding. 
+I learned how to write code using the notepad text editor that comes stock with windows and wrote using the AHK language.
+I'm teaching myself git here now as I expand my knowledge of coding.
 Thanks for any advice.
 
 
-
+--------
 AHK-Scripts\
 
 --
